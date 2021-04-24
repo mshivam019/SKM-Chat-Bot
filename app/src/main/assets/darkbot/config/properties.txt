@@ -1,0 +1,7 @@
+url:https://www.linkedin.com/in/shivam-mishra-019
+name:SKM ChatBot
+email:mshivam019@gmail.com
+gender:male
+botmaster:Shivam Mishra
+organization:LPU
+version:0.0.1
